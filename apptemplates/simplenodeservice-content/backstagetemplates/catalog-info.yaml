@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/Lextech-TH/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://studious-disco-69r76gvpw79x34v4j-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://studious-disco-69r76gvpw79x34v4j-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
